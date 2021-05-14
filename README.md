@@ -1,7 +1,7 @@
 # PostgreSQL-tutorial
 - [tutorial](https://www.postgresqltutorial.com/)
 
-## Progress ![](https://progress-bar.dev/0/?scale=17&suffix=/17&title=progress)
+## Progress ![](https://progress-bar.dev/0/?scale=17&suffix=/17&title=total)
 - ![](https://progress-bar.dev/0/?scale=4&suffix=/4)   Section1. Querying Data 
 - ![](https://progress-bar.dev/0/?scale=7&suffix=/7)   Section2. Filtering Data 
 - ![](https://progress-bar.dev/0/?scale=8&suffix=/8)   Section3. Joining Multiple Tables 
