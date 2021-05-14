@@ -2,21 +2,21 @@
 - [tutorial](https://www.postgresqltutorial.com/)
 
 ## Progress ![](https://progress-bar.dev/0/?scale=17&suffix=/17)
-- [ ] Section1. Querying Data ![](https://progress-bar.dev/0/?scale=4&suffix=/4)
-- [ ] Section2. Filtering Data ![](https://progress-bar.dev/0/?scale=7&suffix=/7)
-- [ ] Section3. Joining Multiple Tables ![](https://progress-bar.dev/0/?scale=8&suffix=/8)
-- [ ] Section4. Grouping Data ![](https://progress-bar.dev/0/?scale=2&suffix=/2)
-- [ ] Section5. Set Operations ![](https://progress-bar.dev/0/?scale=3&suffix=/3)
-- [ ] Section6. Grouping sets, Cube, and Rollup ![](https://progress-bar.dev/0/?scale=3&suffix=/3)
-- [ ] Section7. Subquery ![](https://progress-bar.dev/0/?scale=4&suffix=/4)
-- [ ] Section8. Common Table Expressions ![](https://progress-bar.dev/0/?scale=2&suffix=/2)
-- [ ] Section9. Modifying Data ![](https://progress-bar.dev/0/?scale=6&suffix=/6)
-- [ ] Section10. Transaction ![](https://progress-bar.dev/0/?scale=1&suffix=/1)
-- [ ] Section11. Import & Export Data ![](https://progress-bar.dev/0/?scale=2&suffix=/2)
-- [ ] Section12. Managing Tables ![](https://progress-bar.dev/0/?scale=16&suffix=/16)
-- [ ] Section13. Understanding PostgreSQL Constraints ![](https://progress-bar.dev/0/?scale=5&suffix=/5)
-- [ ] Section14. PostgreSQL Data Types in Depth ![](https://progress-bar.dev/0/?scale=13&suffix=/13)
-- [ ] Section15. Conditional Expressions & Operators ![](https://progress-bar.dev/0/?scale=4&suffix=/4)
-- [ ] Section16. PostgreSQL Utilies ![](https://progress-bar.dev/0/?scale=1&suffix=/1)
-- [ ] Section17. PostgreSQL Recipes ![](https://progress-bar.dev/0/?scale=5&suffix=/5)
+- ![](https://progress-bar.dev/0/?scale=4&suffix=/4)   Section1. Querying Data 
+- ![](https://progress-bar.dev/0/?scale=7&suffix=/7)   Section2. Filtering Data 
+- ![](https://progress-bar.dev/0/?scale=8&suffix=/8)   Section3. Joining Multiple Tables 
+- ![](https://progress-bar.dev/0/?scale=2&suffix=/2)   Section4. Grouping Data 
+- ![](https://progress-bar.dev/0/?scale=3&suffix=/3)   Section5. Set Operations 
+- ![](https://progress-bar.dev/0/?scale=3&suffix=/3)   Section6. Grouping sets, Cube, and Rollup 
+- ![](https://progress-bar.dev/0/?scale=4&suffix=/4)   Section7. Subquery 
+- ![](https://progress-bar.dev/0/?scale=2&suffix=/2)   Section8. Common Table Expressions 
+- ![](https://progress-bar.dev/0/?scale=6&suffix=/6)   Section9. Modifying Data 
+- ![](https://progress-bar.dev/0/?scale=1&suffix=/1)   Section10. Transaction 
+- ![](https://progress-bar.dev/0/?scale=2&suffix=/2)   Section11. Import & Export Data 
+- ![](https://progress-bar.dev/0/?scale=16&suffix=/16) Section12. Managing Tables 
+- ![](https://progress-bar.dev/0/?scale=5&suffix=/5)   Section13. Understanding PostgreSQL Constraints 
+- ![](https://progress-bar.dev/0/?scale=13&suffix=/13) Section14. PostgreSQL Data Types in Depth 
+- ![](https://progress-bar.dev/0/?scale=4&suffix=/4)   Section15. Conditional Expressions & Operators 
+- ![](https://progress-bar.dev/0/?scale=1&suffix=/1)   Section16. PostgreSQL Utilies 
+- ![](https://progress-bar.dev/0/?scale=5&suffix=/5)   Section17. PostgreSQL Recipes 
 
