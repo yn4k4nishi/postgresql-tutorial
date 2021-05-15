@@ -20,3 +20,15 @@
 - ![](https://progress-bar.dev/0/?scale=1&suffix=/1)   Section16. PostgreSQL Utilies 
 - ![](https://progress-bar.dev/0/?scale=5&suffix=/5)   Section17. PostgreSQL Recipes 
 
+## Environment
+- windows10 wsl2
+    - psql (PostgreSQL) 12.6 (Ubuntu 12.6-0ubuntu0.20.04.1)
+
+## Install
+https://www.postgresqltutorial.com/install-postgresql-linux/
+https://docs.microsoft.com/ja-jp/windows/wsl/tutorials/wsl-database
+
+```bash
+sudo apt update 
+sudo apt install postgresql postgresql-contrib
+```
